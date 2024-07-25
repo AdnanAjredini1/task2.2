@@ -103,6 +103,16 @@ body {
   padding-right: 10%;
 }
 
+.title {
+  font-size: 1.5rem;
+  font-weight: 400;
+  
+}
+
+.description {
+  color: #757575 ;
+}
+
 
 
 
